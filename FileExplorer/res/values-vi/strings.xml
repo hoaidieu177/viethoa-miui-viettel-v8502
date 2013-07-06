@@ -128,7 +128,7 @@
     <string name="kuaipan_tech_support">Hỗ trợ kỹ thuật được cung cấp bởi Kingsoft Kuaipan</string>
     <string name="no_tasks">Không có tác vụ</string>
     <string name="create_new_folder_failed">Failed to create folder %1$s</string>
-    <string name="slide_left_text">Slide to the left</string>
+    <string name="slide_left_text">Trượt sang bên trái</string>
     <string name="guide_copy_to_sdcard">Copy file(s) from SD card to KuaiPan</string>
     <string name="guide_access_files_through_web">"Your file can be viewed 
  on any computer connected to Internet"</string>
